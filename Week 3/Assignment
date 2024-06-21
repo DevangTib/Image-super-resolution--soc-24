@@ -1,0 +1,1 @@
+Set up a basic feed forward neural network that can take images from the MNIST dataset and identify them accurately. You can use the Pytorch library to do this.
